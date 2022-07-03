@@ -1,0 +1,14 @@
+C:\Users\AQ\source\repos\CarParking\CarParking\bin\Debug\netcoreapp3.1\CarParking.exe
+C:\Users\AQ\source\repos\CarParking\CarParking\bin\Debug\netcoreapp3.1\CarParking.deps.json
+C:\Users\AQ\source\repos\CarParking\CarParking\bin\Debug\netcoreapp3.1\CarParking.runtimeconfig.json
+C:\Users\AQ\source\repos\CarParking\CarParking\bin\Debug\netcoreapp3.1\CarParking.runtimeconfig.dev.json
+C:\Users\AQ\source\repos\CarParking\CarParking\bin\Debug\netcoreapp3.1\CarParking.dll
+C:\Users\AQ\source\repos\CarParking\CarParking\bin\Debug\netcoreapp3.1\CarParking.pdb
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.csproj.AssemblyReference.cache
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.AssemblyInfoInputs.cache
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.AssemblyInfo.cs
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.csproj.CoreCompileInputs.cache
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.dll
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.pdb
+C:\Users\AQ\source\repos\CarParking\CarParking\obj\Debug\netcoreapp3.1\CarParking.genruntimeconfig.cache

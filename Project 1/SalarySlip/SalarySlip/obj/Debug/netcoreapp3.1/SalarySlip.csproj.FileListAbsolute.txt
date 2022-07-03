@@ -1,0 +1,14 @@
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\bin\Debug\netcoreapp3.1\SalarySlip.exe
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\bin\Debug\netcoreapp3.1\SalarySlip.deps.json
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\bin\Debug\netcoreapp3.1\SalarySlip.runtimeconfig.json
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\bin\Debug\netcoreapp3.1\SalarySlip.runtimeconfig.dev.json
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\bin\Debug\netcoreapp3.1\SalarySlip.dll
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\bin\Debug\netcoreapp3.1\SalarySlip.pdb
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.csproj.AssemblyReference.cache
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.AssemblyInfoInputs.cache
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.AssemblyInfo.cs
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.csproj.CoreCompileInputs.cache
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.dll
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.pdb
+C:\Users\AQ\source\repos\SalarySlip\SalarySlip\obj\Debug\netcoreapp3.1\SalarySlip.genruntimeconfig.cache
